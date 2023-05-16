@@ -1,0 +1,17 @@
+{
+    "name": "root",
+    "autoload": {
+        "psr-4": {
+            "Root\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yulia"
+        }
+    ],
+    "require": {
+        "ext-mysqli": "*",
+        "google/apiclient": "^2.13"
+    }
+}
